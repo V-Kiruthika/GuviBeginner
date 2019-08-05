@@ -1,2 +1,3 @@
-n=int(input())
-print("Hello\n"*n)
+#m
+a=int(input())
+print("Hello\n"*a)
