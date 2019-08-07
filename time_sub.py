@@ -1,0 +1,5 @@
+n=list(map(int,input().split()))
+l=list(map(int,input().split()))
+b=abs(n[0]-l[0])
+c=abs(n[1]-l[1])
+print(b,c)
